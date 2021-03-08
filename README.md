@@ -32,11 +32,18 @@ Classification report
  
 Confusion matrix
 
+![](assets/confusion_matrix.jpg)
+
 Misclassified scenes
  
 Here is a scene prediction of 100 images.
+
+![](assets/prediction_samples_part1.jpg)
  
+![](assets/prediction_samples_part2.jpg)
  
+![](assets/misclassified_scenes.jpg)
+
 We can observe that even to human eyes, differentiating some images is not easy, e.g. glaciers. The classifier makes mistakes in distinguishing snowy mountains and seas from glaciers. Another issue is that some pictures have both buildings and streets within, but the label shows only one. Overall, the model classifies forests well.
 
 Run 
