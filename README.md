@@ -28,11 +28,15 @@ Results
 
 Classification report
 
-![](assets/classification_report.jpg)
- 
+<p align="center">
+![](assets/classification_report.jpg) 
+</p>
+
 Confusion matrix
 
-<image src="assets/confusion_matrix.jpg" width="600">
+<p align="center">
+<image src="assets/confusion_matrix.jpg" width="600"> 
+ </p>
 
 Misclassified scenes
  
