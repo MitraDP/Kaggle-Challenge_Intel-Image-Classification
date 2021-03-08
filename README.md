@@ -27,6 +27,8 @@ The highest accuracy that I got was 91% with the following combination of parame
 Results
 
 Classification report
+
+https://github.com/MitraDP/Kaggle-Challenge_Intel-Image-Classification/blob/master/assets/classification%20report.jpg
  
 Confusion matrix
 
