@@ -28,7 +28,7 @@ Results
 
 Classification report
 
-![alt tag] (https://github.com/MitraDP/Kaggle-Challenge_Intel-Image-Classification/blob/master/assets/classification%20report.jpg)
+![](assets/classification_report.jpg)
  
 Confusion matrix
 
