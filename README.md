@@ -32,7 +32,7 @@ Classification report
  
 Confusion matrix
 
-<image src="assets/confusion_matrix.jpg" width="300">
+<image src="assets/confusion_matrix.jpg" width="500">
 
 Misclassified scenes
  
