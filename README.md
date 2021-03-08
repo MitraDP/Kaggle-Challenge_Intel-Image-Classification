@@ -29,7 +29,7 @@ Results
 Classification report
 
 <p align="center">
-![](assets/classification_report.jpg) 
+<image src=assets/classification_report.jpg">
 </p>
 
 Confusion matrix
