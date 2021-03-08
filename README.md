@@ -21,7 +21,7 @@ I have set aside 20% of the “Train” set for validation. After quite some exp
 
 
 
-I did experimentation with various input image sizes(150 pixels or 224 pixels), optimizers (SGD, Adam), batch sizes(64,128,256), and pretrained model architectures (resnet50, resnext50_32x4d, wide_resnet_50_2, shufflenet_v2_x1_0). For the training schedule, I used Leslie Smith’s One Cycle Learning Rate Policy with 50 epochs. I used the Cross_Entropy loss function. I saved the best model based on a decrease in the validation loss and an increase in the validation accuracy.
+I did experimentation with various input image sizes (150 pixels or 224 pixels), optimizers (SGD, Adam), batch sizes (64,128,256), and pretrained model architectures (resnet50, resnext50_32x4d, wide_resnet_50_2, shufflenet_v2_x1_0). For the training schedule, I used Leslie Smith’s One Cycle Learning Rate Policy with 50 epochs. I used the Cross_Entropy loss function. I saved the best model based on a decrease in the validation loss and an increase in the validation accuracy.
 The highest accuracy that I got was 91% with the following combination of parameters: input image size of 224, batch size of 256, Adam optimizer, a maximum learning rate of 0.001, and the pretrained Resnet50 architecture. 
 
 ### Results
