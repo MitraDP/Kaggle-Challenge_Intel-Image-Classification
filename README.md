@@ -5,7 +5,7 @@
 
 ## Data Description
 
-The dataset consists of approximately 25k images of size 150*150 from a wide range of natural scenes. They are labelled in one of the following 6 categories: Buildings, forest, glacier, mountain, sea, street. The “Train”, “Test” and “Prediction” data are separated into zip files. There are around 14k images in the “Train”, 3k in the “Test” and 7k in the “Prediction” sets.
+The dataset consists of approximately 25k images of size 150*150 from a wide range of natural scenes. They are labelled in one of the following 6 categories: buildings, forest, glacier, mountain, sea, street. The “Train”, “Test” and “Prediction” data are separated into zip files. There are around 14k images in the “Train”, 3k in the “Test” and 7k in the “Prediction” sets.
 
 ### Objective
 
