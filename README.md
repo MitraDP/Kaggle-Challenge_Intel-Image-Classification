@@ -56,7 +56,7 @@ Download the dataset from https://www.kaggle.com/puneet6060/intel-image-classifi
 
 You may change the image input size, batch size, pretrained model architecture, optimizer, and the number of epochs in the “Set the training parameters” section.
 
-The notebook will generate a CSV file for the history of test loss, validation loss, and validation accuracy.
+The notebook will generate a CSV file for the history of train loss, validation loss, and validation accuracy.
 
 The notebook creates a confusion matrix, a classification report and a table of confusing categories.
 
